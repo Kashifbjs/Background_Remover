@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "44dK8X6sx4IKsmDqdBCHZESyEMqPo6zHvLNG+DLlyGM=",
+  "Source": "Background_Remover",
+  "BasePath": "_content/Background_Remover",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

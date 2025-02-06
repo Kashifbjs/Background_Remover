@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\wwwroot\\Background_Remover\\Background_Remover\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|e:\\wwwroot\\background_remover\\background_remover\\background_remover\\services\\backgroundremovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|solutionrelative:background_remover\\services\\backgroundremovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|e:\\wwwroot\\background_remover\\background_remover\\background_remover\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|solutionrelative:background_remover\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|e:\\wwwroot\\background_remover\\background_remover\\background_remover\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|solutionrelative:background_remover\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|e:\\wwwroot\\background_remover\\background_remover\\background_remover\\services\\ibackgroundremovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|solutionrelative:background_remover\\services\\ibackgroundremovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|e:\\wwwroot\\background_remover\\background_remover\\background_remover\\assets\\script.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FBA96D8D-D147-4E9E-BB61-1025645D7459}|Background_Remover\\Background_Remover.csproj|solutionrelative:background_remover\\assets\\script.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Program.cs",
+              "RelativeDocumentMoniker": "Background_Remover\\Program.cs",
+              "ToolTip": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Program.cs",
+              "RelativeToolTip": "Background_Remover\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:23:02.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "script.py",
+              "DocumentMoniker": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Assets\\script.py",
+              "RelativeDocumentMoniker": "Background_Remover\\Assets\\script.py",
+              "ToolTip": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Assets\\script.py",
+              "RelativeToolTip": "Background_Remover\\Assets\\script.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-04T09:59:34.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackgroundRemovalService.cs",
+              "DocumentMoniker": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Services\\BackgroundRemovalService.cs",
+              "RelativeDocumentMoniker": "Background_Remover\\Services\\BackgroundRemovalService.cs",
+              "ToolTip": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Services\\BackgroundRemovalService.cs",
+              "RelativeToolTip": "Background_Remover\\Services\\BackgroundRemovalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:43:53.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBackgroundRemovalService.cs",
+              "DocumentMoniker": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Services\\IBackgroundRemovalService.cs",
+              "RelativeDocumentMoniker": "Background_Remover\\Services\\IBackgroundRemovalService.cs",
+              "ToolTip": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Services\\IBackgroundRemovalService.cs",
+              "RelativeToolTip": "Background_Remover\\Services\\IBackgroundRemovalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:43:32.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "Background_Remover\\Controllers\\ImageController.cs",
+              "ToolTip": "E:\\wwwroot\\Background_Remover\\Background_Remover\\Background_Remover\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "Background_Remover\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:38:31.943Z"
             }
           ]
         },
